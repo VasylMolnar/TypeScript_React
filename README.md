@@ -8,6 +8,8 @@
 2.  React -> TypeScript
 3.  npm i
 
+---
+
 ## Deploying Vite / React App to GitHub Pages
 
 1. Install the gh-pages package
@@ -28,6 +30,8 @@ npm run deploy
 
 🎉 You now have a gh-pages branch in your repository and your app is deployed
 (you can check it under Settings -> Pages )
+
+---
 
 ### ⚙ Free Web Dev Tools
 
