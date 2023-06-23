@@ -1,14 +1,9 @@
-# "TypeScript Cheat Sheets"
-### Run TypeScript file
-1. sudo npm install -g typescript
-2. tsc -v
-3. tsc (file.ts) -w
-
+# "TypeScript React"
 ------------------------------
-### "Your First Vite Project (TypeScript, JavaScript, React ...)"
+### "Your First Vite React Project "
 
 1.  npm create vite@latest
-2.  Vanilla -> TypeScript
+2.  React -> TypeScript
 3.  npm i
 
 ### ⚙ Free Web Dev Tools
