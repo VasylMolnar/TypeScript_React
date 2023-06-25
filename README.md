@@ -25,6 +25,12 @@
 
 ---
 
+### Example
+
+Example.tsx
+
+---
+
 ### Your First Vite React Project
 
 1.  npm create vite@latest
