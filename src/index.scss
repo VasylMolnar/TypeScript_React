@@ -1,0 +1,35 @@
+.navbar-nav .nav-link.active {
+  color: rgb(255, 157, 0) !important;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 250ms ease-in-out;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.NotFound,
+.UsersPage {
+  flex-grow: 1;
+}
+
+.container {
+  padding: 15px;
+}
+
+/* pages */
+.NotFound {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+}

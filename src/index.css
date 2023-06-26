@@ -1,6 +1,0 @@
-.navbar-nav .nav-link.active {
-    color: rgb(255, 157, 0) !important;
-    font-weight: bold;
-    cursor: pointer;
-    transition: all 250ms ease-in-out;
-}
