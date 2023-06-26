@@ -1,10 +1,10 @@
 import { FC } from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import UsersPage from './pages/UsersPage';
 import TodosPage from './pages/TodosPage';
 
-const App = () => {
+const App: FC = () => {
   return (
     <Routes>
       <Route path="/" element={<Header />}>
