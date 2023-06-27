@@ -1,4 +1,4 @@
-@charset "UTF-8";.navbar-nav .nav-link.active{color:#ff9d00!important;font-weight:700;cursor:pointer;transition:all .25s ease-in-out}/*!
+@charset "UTF-8";.navbar-nav .nav-link.active{color:#ff9d00!important;font-weight:700;cursor:pointer;transition:all .25s ease-in-out}.App{display:flex;flex-direction:column;min-height:100vh}.NotFound,.UsersPage,.TodosPage{flex-grow:1}.container{padding:15px}.NotFound{display:flex;align-items:center;justify-content:center}.NotFound .container{display:flex;align-items:center;justify-content:center;flex-direction:column}a{color:#000!important;text-decoration:none!important}.userItem{padding:15px;border:1px solid gray;cursor:pointer}.userItem:hover{color:#fff!important;background-color:#1f91ee;transition:all .1s ease-in-out}/*!
 * Bootstrap  v5.3.0 (https://getbootstrap.com/)
 * Copyright 2011-2023 The Bootstrap Authors
 * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
