@@ -12,7 +12,8 @@
 }
 
 .NotFound,
-.UsersPage {
+.UsersPage,
+.TodosPage {
   flex-grow: 1;
 }
 
@@ -31,5 +32,22 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
+  }
+}
+
+a {
+  color: black !important;
+  text-decoration: none !important;
+}
+
+.userItem {
+  padding: 15px;
+  border: 1px solid gray;
+  cursor: pointer;
+
+  &:hover {
+    color: white !important;
+    background-color: rgb(31, 145, 238);
+    transition: all 100ms ease-in-out;
   }
 }
